@@ -9,8 +9,8 @@ import nltk
 nltk.download("punkt")
 
 # API Keys (Replace with your keys)
-NEWS_API_KEY = "your_newsapi_key_here"
-ALPHA_VANTAGE_API_KEY = "your_alpha_vantage_api_key"
+NEWS_API_KEY = "ad0e2c11c14d4816896cf0f49c6e5179"
+ALPHA_VANTAGE_API_KEY = "WMMSJU51SISSWJFZ"
 STOCK_SYMBOL = "TSLA"
 
 # Fetch Stock News from NewsAPI
