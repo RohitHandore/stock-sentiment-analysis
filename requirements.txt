@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+matplotlib
+nltk
+textblob
+wordcloud
+alpha_vantage
